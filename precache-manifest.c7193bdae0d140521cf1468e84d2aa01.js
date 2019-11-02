@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cdb4dc205529f9633cde2389fa054886",
+    "revision": "42104114c72c8a917ba89840abd78097",
     "url": "/Waxom/index.html"
   },
   {
-    "revision": "424fae0cab04e200315b",
-    "url": "/Waxom/static/css/main.e5ef0ed3.chunk.css"
+    "revision": "8677001463a9889b2b39",
+    "url": "/Waxom/static/css/main.076a9372.chunk.css"
   },
   {
     "revision": "5ebad3b675c440eb170d",
     "url": "/Waxom/static/js/2.fb46c9e5.chunk.js"
   },
   {
-    "revision": "424fae0cab04e200315b",
+    "revision": "8677001463a9889b2b39",
     "url": "/Waxom/static/js/main.75a3e706.chunk.js"
   },
   {
